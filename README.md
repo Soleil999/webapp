@@ -28,10 +28,29 @@ Webapp est une application amusante Python Flask qui affiche des .gifs aléatoir
 ```
 - livrer dans un dépôt publique avec le code de l'application et le fichier Dockerfile sur  
   github :
+```sh
   mkdir gitwebapp
-  cd gitwebapp
-  git clone https://github.com/Soleil999/webapp.git
-  git add -A
-  git commit -m "add dockerfile and code"
-  git push 
+```
+```sh
+ cd gitwebapp
+```
+```sh
+ git clone https://github.com/Soleil999/webapp.git
+```
+```sh
+ git add -A
+```
+```sh
+ git commit -m "add dockerfile and code"
+```
+```sh
+   git push
+```
+
+ 
+  
+  
+  
+  
+ 
 
