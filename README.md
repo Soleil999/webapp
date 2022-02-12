@@ -44,7 +44,7 @@ Webapp est une application amusante Python Flask qui affiche des .gifs aléatoir
   git commit -m "add dockerfile and code"
 ```
 ```sh
-   git push
+  git push
 ```
 
  
