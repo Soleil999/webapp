@@ -32,16 +32,16 @@ Webapp est une application amusante Python Flask qui affiche des .gifs aléatoir
   mkdir gitwebapp
 ```
 ```sh
- cd gitwebapp
+  cd gitwebapp
 ```
 ```sh
- git clone https://github.com/Soleil999/webapp.git
+  git clone https://github.com/Soleil999/webapp.git
 ```
 ```sh
- git add -A
+  git add -A
 ```
 ```sh
- git commit -m "add dockerfile and code"
+  git commit -m "add dockerfile and code"
 ```
 ```sh
    git push
