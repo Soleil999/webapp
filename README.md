@@ -21,7 +21,7 @@ Webapp est une application amusante Python Flask qui affiche des .gifs aléatoir
 - lancer ce navigateur web pour voir le résultat de l'application par Docker desktop   
   Containers (localhost:8080)
 
-## Comment livre nos travail:
+## Comment livrer nos travail:
 - livrer dans un répo avec l'image docker sur dockerhub :
 ```sh
   docker push yangliu666/webapp_img
