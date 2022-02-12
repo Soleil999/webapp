@@ -47,7 +47,7 @@ Webapp est une application amusante Python Flask qui affiche des .gifs aléatoir
   git push
 ```
 
- Projet présent par Yang LIU et Donathien SIMA NKILI
+ Projet présenté par Yang LIU et Donathien SIMA NKILI
   
   
   
